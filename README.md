@@ -5,7 +5,6 @@
 <h3> Instituição </h3>
 
 🎓 Aluno do segundo semestre de 2021 do Instituto Proa. <br>
-<hr>
 
 ## Tecnologias, Ferramentas e Linguagens de Programação
 
@@ -22,6 +21,7 @@
   <a href="https://www.linkedin.com/in/franciscopinheiroguedes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
+## Stats
 <div>
   <a href="https://github.com/Francisco-Guedes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Francisco-Guedes&theme=tokyonight"/>
