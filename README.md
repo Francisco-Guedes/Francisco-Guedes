@@ -1,20 +1,29 @@
-### 🖖Olá, me chamo Francisco Pinheiro
+<h1 align="center">Olá, me chamo Francisco Guedes</h1>
+
+
+
+<h3> Instituição </h3>
+
+🎓 Aluno do segundo semestre de 2021 do Instituto Proa. <br>
 <hr>
-📚 Sou aluno do segundo semestre de 2021 do Instituto Proa.
+
+## Tecnologias, Ferramentas e Linguagens de Programação
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+</div>
+
+## Contate-me
+<div> 
+  <a href = "mailto:guedes.francisco.p@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/franciscopinheiroguedes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 
 <div>
   <a href="https://github.com/Francisco-Guedes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Francisco-Guedes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Francisco-Guedes&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Francisco-Guedes&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Francisco-Guedes&theme=tokyonight"/>
 </div>
-
-🔍 I’m currently looking for my first job.
-📚 I’m currently learning ![image](https://user-images.githubusercontent.com/65934647/133130579-fb28e6b0-2aa9-4fe4-b4b3-59fc68bd850c.png)
-![image](https://user-images.githubusercontent.com/65934647/133130608-a1b06758-e385-4535-8747-77e436cd0868.png)![image](https://user-images.githubusercontent.com/65934647/133130405-1f176d37-da04-4e86-a00c-5a5ef0e450ef.png)
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
