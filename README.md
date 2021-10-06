@@ -2,7 +2,7 @@
 
 
 
-<h3> Instituição </h3>
+<h3> Instituição Atual </h3>
 
 🎓 Aluno do segundo semestre de 2021 do Instituto Proa. <br>
 
